@@ -37,17 +37,17 @@ O **Wizard de Carta de VAN** é uma aplicação desenvolvida para simplificar a 
 
 ### Funcionalidades Implementadas
 
-- **Selecao de Banco**: Busca inteligente por codigo ou nome da instituicao financeira, com sugestoes em tempo real.
+- **Seleção de Banco**: Busca inteligente por codigo ou nome da instituicao financeira, com sugestoes em tempo real.
 
-- **Selecao de Produtos**: Escolha flexivel de produtos bancarios, incluindo Boletos, Pagamentos, Extrato e DDA (Debito Direto Autorizado).
+- **Seleção de Produtos**: Escolha flexivel de produtos bancarios, incluindo Boletos, Pagamentos, Extrato e DDA (Debito Direto Autorizado).
 
-- **Formulario Dinamico**: Validacao de campos com feedback visual instantaneo, prevenindo erros antes do envio.
+- **Formulario Dinamico**: Validação de campos com feedback visual instantaneo, prevenindo erros antes do envio.
 
-- **Geracao de PDF**: Criacao automatica de cartas no formato PDF, seguindo os padroes exigidos (Nexxera e Finnet).
+- **Geracao de PDF**: Criação automática de cartas no formato PDF, seguindo os padrões exigidos (Nexxera e Finnet).
 
-- **Integracao com Zendesk**: Abertura automatica de tickets de atendimento via Zapier, garantindo rastreabilidade.
+- **Integração com Zendesk**: Abertura automática de tickets de atendimento via Zapier, garantindo rastreabilidade.
 
-- **Envio de E-mails**: Distribuicao automatica das cartas geradas para os destinatarios cadastrados.
+- **Envio de E-mails**: Distribuição automática das cartas geradas para os destinatários cadastrados.
 
 - **Interface Responsiva**: Design adaptado para desktop, tablet e dispositivos moveis, garantindo usabilidade em qualquer plataforma.
 
@@ -183,13 +183,20 @@ Resultado: 98.4% de sucesso, tempo médio 1.09s
 ## 👥 Membros da equipe
 
 Gabriella Dos Santos Freitas
+
 Geovanna Cardoso Da Silva
+
 Jardy Rover Giovan Melo Bonfim
+
 Kethellin Pereira
+
 Wanderson Gabriel Sampaio Navarro
+
 Wendel Vinicius Dos Santos Reis
 
 **Orientador:** Juliano Olimpio Lima
+
+---
 
 ## 📄 Licença
 
